@@ -1,6 +1,6 @@
 # API Project: Timestamp Microservice for FCC
 
-## Glitch Link is here: https://fcc-timestamp-afg.glitch.me/
+## Glitch Link is here: https://glitch.com/~fcc-timestamp-afg
 
 ### User stories:
 
